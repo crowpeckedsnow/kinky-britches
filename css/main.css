@@ -34,7 +34,10 @@ nav ul{
 .drop{
   margin-bottom: 0;
 }
-
+.activedrop{
+	margin-bottom: 0;
+	background-color: white;
+}
 .level2{
   margin: 0;
   float:none;

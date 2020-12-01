@@ -98,6 +98,10 @@ main p{
 .active{
 	background-color: white;
 }
+.activedrop{
+	margin-bottom: 0;
+	background-color: white;
+}
 .clearfix{
   overflow: auto;
 }
