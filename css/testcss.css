@@ -28,7 +28,7 @@ nav a{
 }
 
 nav ul{
-  padding-left: 31vw;
+  padding-left: 35vw;
 }
 
 .drop{
@@ -112,4 +112,13 @@ main p{
 .merch:active{
 	width: 40%;
 	transform: rotate(360deg);
+}
+
+
+table{
+	text-align: center;
+}
+
+table th{
+
 }
