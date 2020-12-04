@@ -82,8 +82,8 @@ section a{
 }
 section p{
 	text-align: left;
-	margin: 20px;
-	padding: 10px;
+	margin: 0;
+	padding: 20px;
 }
 .half{
 	width:30%;
@@ -158,4 +158,18 @@ table td:hover{
 }
 .bottomright{
 	border-radius: 0 0 20px 0;
+}
+
+.merchlinks{
+text-align: center;
+}
+.merchclick{
+	display: inline-block;
+	text-align: center;
+	width: 20%;
+
+}
+.merchlinktext{
+	text-decoration: none;
+	color: black;
 }
