@@ -69,6 +69,10 @@ main figure{
 	text-align: center;
 }
 
+.biopic{
+	height: 50vh;
+}
+
 footer{
 	background-image: url(../media/old-paper.jpg);
 	background-repeat: no-repeat;
@@ -172,4 +176,31 @@ text-align: center;
 .merchlinktext{
 	text-decoration: none;
 	color: black;
+}
+
+#viewport{
+	box-sizing: border-box;
+	display: block;
+	height: 40vh;
+	width: 20vw;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 60vh;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url('');
+	border: 5px black solid;
+}
+
+.thumbs{
+	display: inline;
+	margin-left: auto;
+	margin-right: auto;
+}
+.firstthumb{
+	margin-left: 24vw;
 }
