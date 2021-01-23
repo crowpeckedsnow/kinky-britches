@@ -200,3 +200,13 @@ text-align: center;
 .firstthumb{
 	margin-left: 24vw;
 }
+@media screen and (max-width: 800px){
+	nav ul{
+	  padding-left: 15vw;
+	}
+	.half{
+		display:block;
+		float: none;
+		width: 75%
+	}
+}
